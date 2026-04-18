@@ -11,7 +11,14 @@ DNS Traffic Analysis
 Captured DNS queries (A, NS, TXT records) for hakanvardar.me via Cloudflare's 1.1.1.1 resolver. Analyzed transaction IDs, TTL values, response codes, and confirmed DNS operates over UDP/53.
 
 lab 4:
-
+A Wireshark lab report analyzing TCP communication behavior through packet capture.
+TCP three-way handshake (SYN, SYN-ACK, ACK)
+Sequence and Acknowledgment numbers
+TCP flags (PSH, ACK, FIN)
+Window size and flow control
+TCP four-step connection termination
 
 
 lab 5:
+IPv4
+
