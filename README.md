@@ -21,4 +21,10 @@ TCP four-step connection termination
 
 lab 5:
 IPv4
+A Wireshark lab report analyzing IPv4 datagram behavior through packet capture.
+IPv4 header fields (TTL, Protocol, Header Length, Total Length)
+Payload size calculation and header inspection
+Fragmentation analysis (MF flag, Fragment Offset, Identification field)
+Traceroute-based UDP datagram series examination
+Comparison of changing vs. constant fields across datagrams
 
